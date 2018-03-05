@@ -1,4 +1,4 @@
-ongratulations on getting thus far!
+Congratulations on getting thus far!
 ## Please follow the instructions below.
 #### Note: You are working in an already existing Git repository.
 1. Make a new directory and name it your **last name**.
